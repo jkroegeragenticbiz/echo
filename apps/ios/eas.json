@@ -1,0 +1,22 @@
+{
+  "cli": { "version": ">= 16.0.0", "appVersionSource": "remote" },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios": { "simulator": true },
+      "env": { "EXPO_PUBLIC_API_URL": "http://localhost:3000" }
+    },
+    "preview": {
+      "distribution": "internal",
+      "env": { "EXPO_PUBLIC_API_URL": "https://getecho.ai" }
+    },
+    "production": {
+      "autoIncrement": true,
+      "env": { "EXPO_PUBLIC_API_URL": "https://getecho.ai" }
+    }
+  },
+  "submit": {
+    "production": { "ios": { "ascAppId": "REPLACE_WITH_APP_STORE_CONNECT_APP_ID" } }
+  }
+}
