@@ -1,0 +1,17 @@
+node_modules
+.turbo
+.next
+dist
+coverage
+.env
+.env.local
+.env*.local
+.vercel
+*.tsbuildinfo
+# Expo
+.expo
+apps/ios/ios
+apps/ios/android
+*.p8
+*.p12
+*.mobileprovision

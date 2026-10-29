@@ -1,0 +1,27 @@
+{
+  "name": "echo",
+  "private": true,
+  "packageManager": "pnpm@10.28.0",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "check": "turbo run typecheck lint test",
+    "db:generate": "pnpm --filter @echo/db generate",
+    "db:migrate": "pnpm --filter @echo/db migrate",
+    "db:seed": "pnpm --filter @echo/db seed"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.0",
+    "eslint": "^9.39.0",
+    "globals": "^16.5.0",
+    "turbo": "^2.11.10",
+    "typescript": "5.9.3",
+    "typescript-eslint": "^8.72.1"
+  }
+}
