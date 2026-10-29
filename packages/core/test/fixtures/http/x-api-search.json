@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "1790000000000000004",
+      "text": "What would make me wrong: renewal rate drops below 88% for two quarters.\n\nLong, 3-5 year horizon.",
+      "author_id": "42",
+      "conversation_id": "1790000000000000002"
+    },
+    {
+      "id": "1790000000000000003",
+      "text": "Bull case:\n- Fee hike cycle (every ~5.5 yrs) adds high-margin revenue\n- International warehouses still under 30% of the base",
+      "author_id": "42",
+      "conversation_id": "1790000000000000002"
+    }
+  ],
+  "meta": { "result_count": 2 }
+}

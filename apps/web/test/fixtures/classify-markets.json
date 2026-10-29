@@ -1,0 +1,19 @@
+{
+  "domain": "markets_thesis",
+  "summary": "Long Costco on membership-fee economics and 90%+ renewals; thesis breaks if renewals fall below 88%.",
+  "key_metric": { "label": "COST", "value": "Long · 3-5 yr" },
+  "topics": ["COST", "Retail", "membership model"],
+  "markets": {
+    "tickers": ["$cost"],
+    "direction": "long",
+    "bull_case": ["Fee hike cycle (every ~5.5 yrs) adds high-margin revenue", "International warehouses still under 30% of the base"],
+    "bear_case": [],
+    "catalysts": [],
+    "key_metrics": [{ "label": "Renewal rate", "value": "90%+" }],
+    "invalidation_triggers": ["Renewal rate drops below 88% for two quarters"],
+    "time_horizon": "3-5 years"
+  },
+  "fitness": null,
+  "career": null,
+  "general": null
+}

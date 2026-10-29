@@ -4,8 +4,8 @@ import { PGlite } from "@electric-sql/pglite";
 import { vector } from "@electric-sql/pglite/vector";
 import { drizzle } from "drizzle-orm/pglite";
 import { migrate } from "drizzle-orm/pglite/migrator";
-import * as schema from "../src/schema";
-import type { Database } from "../src/client";
+import * as schema from "./schema";
+import type { Database } from "./client";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 

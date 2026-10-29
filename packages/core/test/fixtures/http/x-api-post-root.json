@@ -1,0 +1,22 @@
+{
+  "data": {
+    "id": "1790000000000000002",
+    "text": "$COST thesis, quick thread https://t.co/media1",
+    "note_tweet": {
+      "text": "$COST thesis, quick thread\n\nMembership fees are ~half of operating income and renewal rates sit at 90%+ in US/Canada. Source: https://t.co/src https://t.co/media1",
+      "entities": {
+        "urls": [
+          { "start": 0, "end": 0, "url": "https://t.co/src", "expanded_url": "https://investor.costco.com/financials" },
+          { "start": 0, "end": 0, "url": "https://t.co/media1", "expanded_url": "https://x.com/compounding_cal/status/1790000000000000002/photo/1", "media_key": "3_1" }
+        ]
+      }
+    },
+    "author_id": "42",
+    "conversation_id": "1790000000000000002",
+    "attachments": { "media_keys": ["3_1"] }
+  },
+  "includes": {
+    "users": [{ "id": "42", "username": "compounding_cal", "name": "Cal" }],
+    "media": [{ "media_key": "3_1", "type": "photo", "url": "https://pbs.twimg.com/media/chart.jpg" }]
+  }
+}

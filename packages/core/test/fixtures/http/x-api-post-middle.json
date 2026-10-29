@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": "1790000000000000003",
+    "text": "Bull case:\n- Fee hike cycle (every ~5.5 yrs) adds high-margin revenue\n- International warehouses still under 30% of the base",
+    "author_id": "42",
+    "conversation_id": "1790000000000000002",
+    "in_reply_to_user_id": "42",
+    "referenced_tweets": [{ "type": "replied_to", "id": "1790000000000000002" }],
+    "edit_history_tweet_ids": ["1790000000000000003"]
+  },
+  "includes": { "users": [{ "id": "42", "username": "compounding_cal", "name": "Cal" }] }
+}

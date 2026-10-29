@@ -4,5 +4,6 @@ packages:
 
 onlyBuiltDependencies:
   - esbuild
+  - ffmpeg-static
   - sharp
   - unrs-resolver

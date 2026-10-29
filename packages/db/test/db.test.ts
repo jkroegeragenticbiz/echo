@@ -25,7 +25,7 @@ import {
 import { rewrites, saves, users, voiceProfiles } from "../src/schema";
 import { seed } from "../src/seed";
 import type { Database } from "../src/client";
-import { createTestDb, fakeEmbedding } from "./helpers";
+import { createTestDb, fakeEmbedding } from "../src/testing";
 
 let db: Database;
 let close: () => Promise<void>;

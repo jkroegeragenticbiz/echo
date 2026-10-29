@@ -1,0 +1,15 @@
+{
+  "domain": "career_sales",
+  "summary": "Cold emails that lead with the prospect's problem lifted reply rate from 9% to 31% in 6 weeks.",
+  "key_metric": { "label": "Reply rate", "value": "9% → 31%" },
+  "topics": ["cold email", "prospecting"],
+  "markets": null,
+  "fitness": null,
+  "career": {
+    "core_mechanism": "Lead with their problem, not your calendar.",
+    "scripts": [],
+    "rules": ["Lead with their problem, not your calendar."],
+    "before_after": { "before": "Do you have 15 minutes this week?", "after": "Lead with their problem, not your calendar." }
+  },
+  "general": null
+}

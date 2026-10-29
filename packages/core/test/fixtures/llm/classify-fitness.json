@@ -1,0 +1,15 @@
+{
+  "domain": "fitness_nutrition",
+  "summary": "5-minute overnight oats with 48g protein and 520 calories.",
+  "key_metric": { "label": "Protein", "value": "48g" },
+  "topics": ["meal prep", "protein"],
+  "markets": null,
+  "fitness": {
+    "exercises": [],
+    "macros": { "calories": 520, "protein_g": 48, "carbs_g": 58, "fat_g": 11 },
+    "ingredients": [{ "item": "oats", "quantity": "½ cup" }, { "item": "vanilla whey", "quantity": "1 scoop (30g)" }],
+    "timing": null
+  },
+  "general": null,
+  "career": null
+}
